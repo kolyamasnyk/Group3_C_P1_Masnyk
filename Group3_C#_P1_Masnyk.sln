@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_Masnyk_gr#3_p1_HW 1", "ConsoleApp_C#_p1_Masnyk_gr#3_\ConsoleApp_Masnyk_gr#3_p1_HW 1.csproj", "{2CC2E560-67A7-4CF4-93C8-CA085A193B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masnyk_HW_2", "HW2\Masnyk_HW_2.csproj", "{7A6FBB1C-7DF5-47A0-A821-139D9C428252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2CC2E560-67A7-4CF4-93C8-CA085A193B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2CC2E560-67A7-4CF4-93C8-CA085A193B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2CC2E560-67A7-4CF4-93C8-CA085A193B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2CC2E560-67A7-4CF4-93C8-CA085A193B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6FBB1C-7DF5-47A0-A821-139D9C428252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6FBB1C-7DF5-47A0-A821-139D9C428252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6FBB1C-7DF5-47A0-A821-139D9C428252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6FBB1C-7DF5-47A0-A821-139D9C428252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
