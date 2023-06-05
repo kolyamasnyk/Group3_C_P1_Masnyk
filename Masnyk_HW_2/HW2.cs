@@ -56,11 +56,11 @@
             // print the output of multiplication of three numbers which will be entered by the user
             Console.WriteLine();
             Console.WriteLine("Введiть перше число для множення:");
-            var num1 = Convert.ToInt32(Convert.ToString(Console.ReadLine()));
+            var num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введiть друге число для множення:");
-            var num2 = Convert.ToInt32(Convert.ToString(Console.ReadLine()));
+            var num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введiть трете число для множення:");
-            var num3 = Convert.ToInt32(Convert.ToString(Console.ReadLine()));
+            var num3 = Convert.ToInt32(Console.ReadLine());
             var multiplication = num1 * num2 * num3;
             Console.WriteLine($"Результатом множення чисел: {num1} та {num2} та {num3} буде - {multiplication}");
         }
