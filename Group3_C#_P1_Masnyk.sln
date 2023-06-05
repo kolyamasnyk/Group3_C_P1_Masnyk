@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masnyk_HW_1", "Masnyk_HW_1\Masnyk_HW_1.csproj", "{5FA8EB38-4A50-4BFE-9F9E-5BB200FC6031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masnyk_HW_1", "Masnyk_HW_1\Masnyk_HW_1.csproj", "{5FA8EB38-4A50-4BFE-9F9E-5BB200FC6031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masnyk_HW_2", "Masnyk_HW_2\Masnyk_HW_2.csproj", "{340170CD-B22A-46BA-B2BB-A5B6D98B4BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Masnyk_HW_2", "Masnyk_HW_2\Masnyk_HW_2.csproj", "{340170CD-B22A-46BA-B2BB-A5B6D98B4BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masnyk_HW_3", "Masnyk_HW_3\Masnyk_HW_3.csproj", "{F6E094E5-D20B-4EB6-AE56-BAA0BCB9F018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{340170CD-B22A-46BA-B2BB-A5B6D98B4BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{340170CD-B22A-46BA-B2BB-A5B6D98B4BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340170CD-B22A-46BA-B2BB-A5B6D98B4BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E094E5-D20B-4EB6-AE56-BAA0BCB9F018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E094E5-D20B-4EB6-AE56-BAA0BCB9F018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E094E5-D20B-4EB6-AE56-BAA0BCB9F018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E094E5-D20B-4EB6-AE56-BAA0BCB9F018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
